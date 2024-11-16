@@ -1,1 +1,13 @@
 venv/
+
+* .pyc
+
+*~
+
+--pycache--
+
+db.sqllite3
+
+/static
+
+.DS_Store
